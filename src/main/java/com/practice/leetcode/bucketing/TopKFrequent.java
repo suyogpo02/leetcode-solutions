@@ -1,10 +1,13 @@
-package com.practice.leetcode.bucktting;
+package com.practice.leetcode.bucketing;
 
 import java.util.*;
 
 public class TopKFrequent {
 
+
+
     public static void main(String[] args) {
+
         int []nums = {1,1,1,2,2,3};
         int k = 2;
         final int[] topKFrequent = topKFrequent(nums, k);
