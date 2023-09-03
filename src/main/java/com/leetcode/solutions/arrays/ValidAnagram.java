@@ -1,4 +1,4 @@
-package com.leetcode.solutions.arrays.hasing;
+package com.leetcode.solutions.arrays;
 
 public class ValidAnagram {
     //https://leetcode.com/problems/valid-anagram/description/
